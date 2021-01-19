@@ -18,4 +18,4 @@ function cpl()
         print("che palle "..thing)
     end
 end
-che_palle.cpl()
+cpl()

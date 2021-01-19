@@ -49,11 +49,13 @@ print("value of b:", b)
 print(type("What is my type"))   --string
 t = 10
 
+local abc
+
 print(type(5.8*t))               --number
 print(type(true))                --boolean
 print(type(print))               --function
 print(type(nil))                 --nil
-print(type(type(ABC)))           --string
+print(type(type(abc)))           --string
 
 --operatori relazionari
 a, b = 10, 20
