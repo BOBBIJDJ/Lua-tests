@@ -13,3 +13,4 @@ local function new_infinite_item_table(table)
   end
   
 end
+new_infinite_item_table()
